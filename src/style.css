@@ -13,8 +13,8 @@ body{
 h1{
     font-family: 'Permanent Marker', cursive;
     font-weight: 100;
-    font-size: 90px;
-    color:rgba(0, 0, 0, 0.925);
+    font-size: 106px;
+    color:rgba(0, 0, 0, 0.966);
     line-height: 1;
 }
 p{
@@ -23,7 +23,7 @@ p{
 }
 h2{
     font-family: 'Signika', sans-serif;
-    color: rgba(0, 0, 0, 0.959);
+    color: rgba(0, 0, 0, 0.973);
     font-weight: 600;
 }
 .greet{
@@ -35,11 +35,13 @@ h2{
 .greet p{
     font-size: 46px;
     margin: 0;
+    font-weight: bold;
     color: var(--primary-color);
 }
 .greet h2{
-    font-size: 24px;
-    color: rgba(0, 0, 0, 0.76);
+    font-size: 30px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.918);
     line-height: 2;
 }
 .btn-branding{
@@ -47,7 +49,7 @@ h2{
     color:#fff;
     border-radius: 6px;
     padding: 15px 35px;
-    font-size: 20px;
+    font-size: 22px;
     line-height: 27px;
     box-shadow: var(--calm-shadow);
 }
